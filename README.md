@@ -1,2 +1,2 @@
 # Certfictes
- completed cources
+ completed cources for coding
